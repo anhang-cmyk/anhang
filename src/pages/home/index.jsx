@@ -5,7 +5,9 @@ import './styles.less'
 export class Home extends Component {
   render() {
     return (
-      <div>123</div>
+      <div>
+        
+      </div>
     )
   }
 }
